@@ -1,0 +1,14 @@
+所有配置文件均存放在HDFS中,例如可以以如下方式存放配置信息。
+其中：
+application.conf为默认配置文件,例如IDF模型训练,新闻贴标签等程序默认都以此为配置文件。
+nlp.conf为分词相关服务默认配置文件,例如ansjSplit等自然语言处理接口以此为配置文件。
+
+├── conf
+│   ├── ansj.conf
+│   ├── application.conf
+│   ├── dict
+│   │   ├── finacialWords.dic
+│   │   ├── stockName.dic
+│   │   └── tagsInfo.dic
+│   └── nlp.conf
+├── deploy

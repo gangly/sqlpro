@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 16 14:44:19 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015a-d5dc-282a-0000095a8828 
+on database directory /private/var/folders/qm/91dj5gns1t15c24r_l_f9rvc0000gn/T/spark-3ddab8d7-5308-4167-8b05-570da57482e5/metastore with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/lovelife/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=/Users/lovelife/git/sqlpro
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
