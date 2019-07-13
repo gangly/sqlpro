@@ -33,7 +33,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <scala.version>2.11.7</scala.version>
-        <spark.version>1.6.1</spark.version>
+        <spark.version>2.3.3</spark.version>
         <anjs.version>5.0.3</anjs.version>
         <anjs.tries.version>1.5</anjs.tries.version>
         <nlp.version>1.7</nlp.version>
@@ -49,7 +49,7 @@
         <hadoop.version>2.6.0</hadoop.version>
         <scalikejdbc.version>2.3.5</scalikejdbc.version>
         <spray.version>1.3.3</spray.version>
-        <akka.version>2.3.9</akka.version>
+        <akka.version>2.5.23</akka.version>
         <httpclinet.version>4.5.2</httpclinet.version>
         <httpcore.version>4.4.4</httpcore.version>
         <es.version>2.4.3</es.version>
@@ -80,7 +80,7 @@
             </dependency>
             <dependency>
                 <groupId>org.scalatest</groupId>
-                <artifactId>scalatest_2.10</artifactId>
+                <artifactId>scalatest_2.11</artifactId>
                 <version>${scalatest.version}</version>
             </dependency>
             <dependency>
@@ -100,32 +100,32 @@
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-core_2.10</artifactId>
+                <artifactId>spark-core_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-streaming_2.10</artifactId>
+                <artifactId>spark-streaming_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-streaming-kafka_2.10</artifactId>
+                <artifactId>spark-streaming-kafka_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-hive_2.10</artifactId>
+                <artifactId>spark-hive_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-mllib_2.10</artifactId>
+                <artifactId>spark-mllib_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.spark</groupId>
-                <artifactId>spark-sql_2.10</artifactId>
+                <artifactId>spark-sql_2.11</artifactId>
                 <version>${spark.version}</version>
             </dependency>
             <dependency>
@@ -145,7 +145,7 @@
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.module</groupId>
-                <artifactId>jackson-module-scala_2.10</artifactId>
+                <artifactId>jackson-module-scala_2.11</artifactId>
                 <version>2.4.1</version>
             </dependency>
             <dependency>
@@ -170,12 +170,12 @@
             </dependency>
             <dependency>
                 <groupId>net.debasishg</groupId>
-                <artifactId>redisclient_2.10</artifactId>
+                <artifactId>redisclient_2.11</artifactId>
                 <version>3.3</version>
             </dependency>
             <dependency>
                 <groupId>org.scalikejdbc</groupId>
-                <artifactId>scalikejdbc_2.10</artifactId>
+                <artifactId>scalikejdbc_2.11</artifactId>
                 <version>${scalikejdbc.version}</version>
             </dependency>
             <dependency>
@@ -185,42 +185,42 @@
             </dependency>
             <dependency>
                 <groupId>io.spray</groupId>
-                <artifactId>spray-routing_2.10</artifactId>
+                <artifactId>spray-routing_2.11</artifactId>
                 <version>${spray.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.spray</groupId>
-                <artifactId>spray-caching_2.10</artifactId>
+                <artifactId>spray-caching_2.11</artifactId>
                 <version>${spray.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.spray</groupId>
-                <artifactId>spray-servlet_2.10</artifactId>
+                <artifactId>spray-servlet_2.11</artifactId>
                 <version>${spray.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.spray</groupId>
-                <artifactId>spray-client_2.10</artifactId>
+                <artifactId>spray-client_2.11</artifactId>
                 <version>${spray.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.spray</groupId>
-                <artifactId>spray-json_2.10</artifactId>
+                <artifactId>spray-json_2.11</artifactId>
                 <version>1.3.2</version>
             </dependency>
             <dependency>
                 <groupId>com.typesafe.akka</groupId>
-                <artifactId>akka-actor_2.10</artifactId>
+                <artifactId>akka-actor_2.11</artifactId>
                 <version>${akka.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.typesafe.akka</groupId>
-                <artifactId>akka-slf4j_2.10</artifactId>
+                <artifactId>akka-slf4j_2.11</artifactId>
                 <version>${akka.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.scopt</groupId>
-                <artifactId>scopt_2.10</artifactId>
+                <artifactId>scopt_2.11</artifactId>
                 <version>3.3.0</version>
             </dependency>
             <dependency>
@@ -251,7 +251,7 @@
 
             <dependency>
                 <groupId>com.stratio.datasource</groupId>
-                <artifactId>spark-mongodb_2.10</artifactId>
+                <artifactId>spark-mongodb_2.11</artifactId>
                 <version>0.11.2</version>
             </dependency>
 
