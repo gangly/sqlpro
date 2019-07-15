@@ -325,7 +325,7 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: asm:asm-commons:3.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: asm:asm-tree:3.1" level="project" />
     <orderEntry type="library" name="Maven: com.stratio.datasource:spark-mongodb_2.10:unknown" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.23" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.31" level="project" />
     <orderEntry type="library" name="Maven: org.scalactic:scalactic_2.10:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang:scala-reflect:2.11.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.scalatest:scalatest_2.10:3.0.1" level="project" />
