@@ -50,7 +50,7 @@
         <scalikejdbc.version>2.3.5</scalikejdbc.version>
         <spray.version>1.3.3</spray.version>
         <akka.version>2.5.23</akka.version>
-        <httpclinet.version>4.5.2</httpclinet.version>
+        <httpclinet.version>4.5.13</httpclinet.version>
         <httpcore.version>4.4.4</httpcore.version>
         <es.version>2.4.3</es.version>
         <geoip2.version>2.5.0</geoip2.version>
