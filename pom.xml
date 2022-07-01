@@ -46,7 +46,7 @@
         <assembly.plugin.version>2.6</assembly.plugin.version>
         <typesafe.config.version>1.2.0</typesafe.config.version>
         <jackson.version>2.4.1</jackson.version>
-        <hadoop.version>2.6.0</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <scalikejdbc.version>2.3.5</scalikejdbc.version>
         <spray.version>1.3.3</spray.version>
         <akka.version>2.5.23</akka.version>
